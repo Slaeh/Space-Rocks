@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "158e70bb-0aca-486a-a2e8-902b036b9ba9",
+            "Value": {
+                "id": "5dbb81c1-3d05-4d42-b731-621b00b0f713",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "17e44a3a-213c-47df-baa5-8a5f26062d0a",
+            "Value": {
+                "id": "b187e611-77da-4ca2-85a1-413eeb8aab70",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "19d44b33-fe0d-415e-a23f-56a71b4097cc",
             "Value": {
                 "id": "99c19016-43d6-4bfc-a17b-18b243395a0a",
                 "resourcePath": "views\\19d44b33-fe0d-415e-a23f-56a71b4097cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a7f3044-ad3a-4dc2-9273-ef43388a11c3",
+            "Value": {
+                "id": "439a0cc1-449e-43d7-912c-ba8f67ce69ec",
+                "resourcePath": "rooms\\rm_game_over\\rm_game_over.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "9a3db805-2c97-4b35-9b18-f3d197517adf",
+            "Value": {
+                "id": "6a66c373-5221-4af8-9184-a8a37898e4d4",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9d637a76-459b-4927-9ceb-2fa7f4f33a78",
             "Value": {
                 "id": "55051de0-e377-4dc7-98aa-0c90fca513ff",
@@ -252,6 +284,14 @@
                 "id": "c3ab889b-3abc-4f4e-bb39-d1f8ed6b1099",
                 "resourcePath": "views\\e15ea2c4-5c65-4aed-a8af-160dc1e2b871.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f5185ba6-0038-4fe9-bc0f-75f3f7e43016",
+            "Value": {
+                "id": "75f84070-e1bc-4a5c-84c7-bdd01a2a3b62",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
